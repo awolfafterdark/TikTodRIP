@@ -1,12 +1,12 @@
 ```
-            |''||''|  ||  '||      |''||''|              '||  '||''|.   '||' '||''|.
-               ||    ...   ||  ..     ||      ...      .. ||   ||   ||   ||   ||   ||
-               ||     ||   || .'      ||    .|  '|.  .'  '||   ||''|'    ||   ||...|'
-               ||     ||   ||'|.      ||    ||   ||  |.   ||   ||   |.   ||   ||
-              .||.   .||. .||. ||.   .||.    '|..|'  '|..'||. .||.  '|' .||. .||.
-                           - TikTok Mass Report With Proxy Rotator -
-                                     Code by @elliottophellia
-                         https://github.com/elliottophellia/TikTodRIP
+                |''||''|  ||  '||      |''||''|              '||  '||''|.   '||' '||''|.
+                   ||    ...   ||  ..     ||      ...      .. ||   ||   ||   ||   ||   ||
+                   ||     ||   || .'      ||    .|  '|.  .'  '||   ||''|'    ||   ||...|'
+                   ||     ||   ||'|.      ||    ||   ||  |.   ||   ||   |.   ||   ||
+                  .||.   .||. .||. ||.   .||.    '|..|'  '|..'||. .||.  '|' .||. .||.
+                               - TikTok Mass Report With Proxy Rotator -
+                                         Code by @elliottophellia
+                             https://github.com/elliottophellia/TikTodRIP
 ```
 <p align="center">
 <img src="https://img.shields.io/badge/PYTHON-3.11-bf616a?style=flat-square"/> <img src="https://img.shields.io/badge/LICENE-GPL2.0-ebcb8b?style=flat-square"/> <img src="https://img.shields.io/badge/VERSION-1.0.0-a3be8c?style=flat-square"/><br/><a href="https://www.paypal.com/paypalme/elliottophellia"><img src="https://img.shields.io/badge/BUY%20ME%20A%20COFFEE-79B8CA?style=for-the-badge&logo=paypal&logoColor=white"/></a> <a href="https://saweria.co/elliottophellia"><img src="https://img.shields.io/badge/TRAKTIR%20SAYA%20KOPI-FAC76C?style=for-the-badge&logo=BuyMeACoffee&logoColor=black"/></a>
