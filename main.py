@@ -11,7 +11,7 @@ RED = "\033[91m"
 
 def GetProxy():
     response = requests.get(
-        "https://raw.githubusercontent.com/elliottophellia/yakumo/master/results/http/global/http_checked.txt"
+        "https://advanced.name/freeproxy/65b5caabe8c4e"
     )
     if response.status_code == 200:
         if os.path.exists("proxies.txt"):
@@ -112,9 +112,9 @@ def main():
         \t     ||     ||   || .'      ||    .|  '|.  .'  '||   ||''|'    ||   ||...|' {RESET}
         \t     ||     ||   ||'|.      ||    ||   ||  |.   ||   ||   |.   ||   ||      
         \t    .||.   .||. .||. ||.   .||.    '|..|'  '|..'||. .||.  '|' .||. .||. 
-        \t                 - TikTok Mass Report With Proxy Rotator -
-        \t                           Code by {YELLOW}@elliottophellia{RESET}
-        \t               https://github.com/elliottophellia/TikTodRIP
+        \t                 - YiffTok Mass Report With Proxy Rotator -
+        \t                           Code by {YELLOW}@guinnessgshep{RESET}
+        \t               https://twitter.com/guinnessgshep
         """)
         print("\t" + "="*94)
         username = GetUserID(input(f"\t{YELLOW}{'INPUT':<10}{RESET}|\t{'Username (USERNAME)':<25} > "))
@@ -138,9 +138,9 @@ def main():
         print(f"\n\t{GREEN}{'DONE':<10}{RESET}|\t{'All Threads Completed':<25}\n")
         print("\t" + "="*94) 
         print(f"""
-        \t                        Please kindly buy me a coffee
-        \t                      https://saweria.co/elliottophellia  
-        \t                      https://paypal.me/elliottophellia
+        \t                        Yiff Me Daddy - Rawr x3 Nuzzles
+        \t                      https://twitter.com/CaffineShep  
+        \t                      https://tiktok.com/@guinnessgshep
         """)
         print("\t" + "="*94) 
         if os.path.exists("proxies.txt"):
